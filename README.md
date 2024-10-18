@@ -10,7 +10,7 @@ After switching careers, I've been learning to code for over a year. I started w
 * 🖥️  See my portfolio at [Carlos Leite](http://https://carlosleite.dev.br/)
 * ✉️  You can contact me at [carlosebl@gmail.com](mailto:carlosebl@gmail.com)
 * 🚀  I'm currently working on [my business website](http://https://yourcustom.site)
-* 🧠  I'm learning React Redux
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on new projects to keep learning and improving my skills.
 * ⚡  I'm the best cook you'll ever meet.
 
