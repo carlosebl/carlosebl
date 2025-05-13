@@ -7,7 +7,6 @@ Front-End Developer
 After switching careers, I've been learning to code for over a year. I started with HTML and CSS, and now I have skills in creating applications with React, Vue.js, and JavaScript.
 
 * 🌍  I'm based in Porto Alegre, Brazil
-* 🖥️  See my portfolio at [Carlos Leite](http://https://carlosleite.dev.br/)
 * ✉️  You can contact me at [carlosebl@gmail.com](mailto:carlosebl@gmail.com)
 * 🚀  I'm currently working for [CI&T](http://https://ciandt.com)
 * 🧠  I'm learning advanced skills in Next.js
